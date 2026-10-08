@@ -1,0 +1,9 @@
+{
+  "name": "clawd-pet",
+  "version": "0.1.0",
+  "description": "Mini game: raise Clawd, the Claude Code mascot, and squash bugs together",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "RealzZne0"
+  }
+}

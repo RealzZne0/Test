@@ -1,0 +1,5 @@
+{
+  "name": "realzzne0-mods",
+  "owner": { "name": "RealzZne0" },
+  "plugins": [{ "name": "clawd-pet", "source": "./" }]
+}
